@@ -1,3 +1,3 @@
 # Advent of Code
 
-Mainly code golf and intentional obscurity. Mostly fun when have time.
+Mostly code golf, fun and intentional obscurity.
