@@ -1,3 +1,3 @@
 # Advent of Code
 
-Years 2016-2018
+Mainly code golf and intentional obscurity. Mostly fun when have time.
